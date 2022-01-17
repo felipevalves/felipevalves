@@ -1,10 +1,13 @@
 ### Hi there 👋, my name is Felipe Alves and I'm developer.
 
--- I have been working at Mili S.A for 13 years and my main occupation is developer. I'm also lead tech, analyst, tester, etc... :D 
+- 🔭 I have been working at Mili S.A for 13 years and my main occupation is developer. I'm also lead tech, analyst, tester, etc... :D 
 
--- The main techs I work is Java, data base Oracle - PLSQL, Kotlin and python. 
+- 🔭 The main techs I work is Java, data base Oracle - PLSQL, Kotlin and python. 
 
--- This is my GitHub profile, I try to create some tests here before writing in production.
+- 😄 This is my GitHub profile, I try to create some tests here before writing in production.
+
+- 📫 How to reach me: ![ldpi](https://user-images.githubusercontent.com/61691394/149848316-2da2215c-41a2-49fb-922a-9062a6eedd2b.png) ![ldpi](https://user-images.githubusercontent.com/61691394/149848655-0244e1cd-9a76-4173-8f7d-8b5fbf55687d.png)
+ https://www.linkedin.com/in/felipe-alves-9375639b/
 <!--
 **felipevalves/felipevalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
