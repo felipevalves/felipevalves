@@ -2,7 +2,7 @@
 
 - 🔭 I have been working at Mili S.A for 13 years and my main occupation is developer. I'm also lead tech, analyst, tester, etc... :D 
 
-- 🔭 The main techs I work is Java, data base Oracle - PLSQL, Kotlin and python. 
+- 🔭 The main techs I work are Java, database Oracle - PLSQL, Kotlin and python. 
 
 - 😄 This is my GitHub profile, I try to create some tests here before writing in production.
 
